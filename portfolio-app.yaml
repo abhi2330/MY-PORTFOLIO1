@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/abhi2330/MY-PORTFOLIO1.git
     targetRevision: main
-    path: "/"             
+    path: "."             # relative path to repo root
   destination:
     server: https://kubernetes.default.svc
     namespace: default

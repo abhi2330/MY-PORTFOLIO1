@@ -1,5 +1,5 @@
 const typed = new Typed('.text', {
-    strings: ['DevOps Engineer', 'AWS Specialist', 'Cloud Enthusiast', 'Tech Professional'],
+    strings: ['DevOps Engineer', 'AWS Specialist', 'Cloud Engineer', 'Tech Professional'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
